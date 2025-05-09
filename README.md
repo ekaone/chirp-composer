@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="/images/og-image.png" alt="ChirpComposer Banner">
-</p>
-
 # ChirpComposer - Bird Chirp Synthesizer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -83,6 +79,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🔗 Links
 
-- [Live Demo](https://your-demo-link.com)
-- [Documentation](https://your-docs-link.com)
-- [Report Bug](https://github.com/yourusername/bird-chirps/issues)
+- [Live Demo](https://bird.prasetia.me/)
+- [Report Bug](https://github.com/ekaone/chirp-composer/issues)
